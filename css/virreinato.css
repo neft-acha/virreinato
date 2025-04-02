@@ -1,0 +1,52 @@
+body{
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    font-family: Libre Baskerville;
+    font-size: 40px;
+    text-align: left;
+    margin-left: 40px;
+}
+nav{
+    background-color: grey;
+
+}
+h2{
+    text-align: left;
+    font-family: Libre Baskerville;
+    margin-left: 40px;
+}
+p{
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: left;
+}
+footer{
+    background-color: rgb(58, 57, 57);
+    color: whitesmoke;
+    height: 100px;
+    padding: 50px;
+    
+}
+.cta-button {
+    display: inline-block;
+    background-color: grey;
+    background-color: none ;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  .cta-button:hover {
+    background-color:  rgb(58, 57, 57);
+  }
+.p{
+    text-align: center;
+}
